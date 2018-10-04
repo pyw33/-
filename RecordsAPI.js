@@ -1,0 +1,1 @@
+REACT_APP_RECORDS_API_URL = https://5ba5f0a8e04d5100148d29b4.mockapi.io/api/v1/records
